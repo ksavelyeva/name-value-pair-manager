@@ -15,6 +15,7 @@ Clone the repository or download the source code.
 Open the index.html file in a web browser.
 
 UI Overview
+![image](https://github.com/ksavelyeva/name-value-pair-manager/assets/106028793/6a97a6e8-d222-49eb-9f3f-0a80969b6813)
 The application has the following user interface components:
 Input Field: Enter name/value pairs in the specified format (<name> = <value>).
 Add Button: Click to add the entered pair to the list.
